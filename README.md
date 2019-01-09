@@ -21,4 +21,9 @@ Pentester Tool For Windows Beta Version 1.0
 <a href="https://github.com/agusmakmun">agusmakmun</a></br>
 <a href="https://github.com/Anon-Exploiter/">Anon-Exploiter</a></br>
 For Their Scripts
+<br/>
+<br/>
 <b>if You Face Path Not Found Problem :After Cloning This Project Extract The Zip File And Open WInpen.bat With ANy Text Editor And Cut The Beta From Its Banner.After That You Can Run It<br/></b>
+<br/><br/>
+Download The Compressed Rar File From Google Drive If its Bugy
+GOOGLE DRIVE : https://drive.google.com/file/d/1dLAwstbceP_heRuZtAJs2C-_EEXftTcF/view?usp=sharing
